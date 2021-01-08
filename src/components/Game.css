@@ -1,0 +1,59 @@
+.Card{
+    display: inline-block;
+    border: 2px solid black;
+    margin: 5px;
+    width: 240px;
+    height: 260px;
+
+    font-size: 120px;
+    text-decoration: none; 
+    background-repeat: none;
+    background-size: cover;   
+}
+.Card2{
+    display: inline-block;
+    margin: 5px;
+    width: 240px;
+    height: 260px;
+    text-decoration: none; 
+}
+
+
+.Card3{
+    display: inline-flex;
+    margin: 5px;
+    width: 240px;
+    height: 260px;
+    text-decoration: none;
+    background-repeat: none;
+    background-size: cover;
+    
+     }
+     @keyframes animate 
+     {
+        0%
+        {
+            opacity: 0;
+            transform: rotateY(180deg);
+            filter: blur(10px);
+        }
+        100%
+        {
+            opacity: 0.1;
+            transform: rotateY(0deg);
+        }
+     }
+@media (max-width:600px){
+    .Card3{
+        width: 80px;
+        height: 100px;
+    }
+    .Card{
+        width: 80px;
+        height: 100px;
+    }
+    .Card2{
+        width: 86px;
+        height: 106px;
+    }
+}
