@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/MemoryGame/static/css/main.fec24ef7.chunk.css",
+    "main.js": "/MemoryGame/static/js/main.ea14e6df.chunk.js",
+    "main.js.map": "/MemoryGame/static/js/main.ea14e6df.chunk.js.map",
+    "runtime-main.js": "/MemoryGame/static/js/runtime-main.b3ed72af.js",
+    "runtime-main.js.map": "/MemoryGame/static/js/runtime-main.b3ed72af.js.map",
+    "static/css/2.ecf09bb4.chunk.css": "/MemoryGame/static/css/2.ecf09bb4.chunk.css",
+    "static/js/2.af5ba32b.chunk.js": "/MemoryGame/static/js/2.af5ba32b.chunk.js",
+    "static/js/2.af5ba32b.chunk.js.map": "/MemoryGame/static/js/2.af5ba32b.chunk.js.map",
+    "index.html": "/MemoryGame/index.html",
+    "precache-manifest.c085ea5a40eb4685c8a0f845513da0b1.js": "/MemoryGame/precache-manifest.c085ea5a40eb4685c8a0f845513da0b1.js",
+    "service-worker.js": "/MemoryGame/service-worker.js",
+    "static/css/2.ecf09bb4.chunk.css.map": "/MemoryGame/static/css/2.ecf09bb4.chunk.css.map",
+    "static/css/main.fec24ef7.chunk.css.map": "/MemoryGame/static/css/main.fec24ef7.chunk.css.map",
+    "static/js/2.af5ba32b.chunk.js.LICENSE.txt": "/MemoryGame/static/js/2.af5ba32b.chunk.js.LICENSE.txt",
+    "static/media/bee.jpg": "/MemoryGame/static/media/bee.2f59ceda.jpg",
+    "static/media/bird.jpg": "/MemoryGame/static/media/bird.f253c035.jpg",
+    "static/media/gina.jpg": "/MemoryGame/static/media/gina.a7a78448.jpg",
+    "static/media/App.css": "/MemoryGame/static/media/homeWallPaper2.c6152bf1.jpg",
+    "static/media/horse.jpeg": "/MemoryGame/static/media/horse.78ac2610.jpeg",
+    "static/media/kinor.jpg": "/MemoryGame/static/media/kinor.c5438af5.jpg",
+    "static/media/parpar.jpg": "/MemoryGame/static/media/parpar.fad24d0d.jpg",
+    "static/media/updown.png": "/MemoryGame/static/media/updown.6822ef31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3ed72af.js",
+    "static/css/2.ecf09bb4.chunk.css",
+    "static/js/2.af5ba32b.chunk.js",
+    "static/css/main.fec24ef7.chunk.css",
+    "static/js/main.ea14e6df.chunk.js"
+  ]
+}
